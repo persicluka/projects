@@ -1,0 +1,24 @@
+.container {
+  padding: 10px;
+}
+
+form {
+  margin-top: 1em;
+}
+
+.form-input {
+  width: 20rem;
+  height: 2.5rem;
+  padding-left: 1em;
+  border-radius: 5rem;
+}
+
+.form-button {
+  margin-left: 2em;
+  height: 2.5rem;
+  width: 5rem;
+  background-color: blue;
+  color: wheat;
+  border: none;
+  border-radius: 5rem;
+}
